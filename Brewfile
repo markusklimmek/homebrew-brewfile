@@ -11,6 +11,7 @@ cask 'visual-studio-code'
 cask 'spectacle'
 cask 'flux'
 cask 'clipy'
+cask 'thunderbird'
 
 # Browser
 cask 'google-chrome'
