@@ -7,11 +7,18 @@ tap 'caskroom/cask'
 # Development
 cask 'visual-studio-code'
 
-# Desktop
+# Desktop & Shell
+brew 'zsh'
+
+cask 'iterm2'
 cask 'spectacle'
 cask 'flux'
 cask 'clipy'
+
+# Office
 cask 'thunderbird'
+cask 'telegram'
+cask 'libreoffice'
 
 # Browser
 cask 'google-chrome'
