@@ -19,6 +19,7 @@ cask 'clipy'
 cask 'thunderbird'
 cask 'telegram'
 cask 'libreoffice'
+cask 'nvalt'
 
 # Browser
 cask 'google-chrome'
