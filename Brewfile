@@ -20,6 +20,9 @@ cask 'thunderbird'
 cask 'telegram'
 cask 'libreoffice'
 cask 'nvalt'
+# This one is not compliant, 
+# Error: Uh oh, could not figure out how to unpack 'handshaker'
+# cask 'handshaker'
 
 # Browser
 cask 'google-chrome'
