@@ -6,6 +6,9 @@ tap 'caskroom/cask'
 
 # Development
 cask 'visual-studio-code'
+brew 'maven'
+cask 'java'
+cask 'intellij-idea-ce'
 
 # Desktop & Shell
 brew 'zsh'
@@ -20,6 +23,7 @@ cask 'thunderbird'
 cask 'telegram'
 cask 'libreoffice'
 cask 'nvalt'
+cask 'teamviewer'
 # This one is not compliant, 
 # Error: Uh oh, could not figure out how to unpack 'handshaker'
 # cask 'handshaker'
