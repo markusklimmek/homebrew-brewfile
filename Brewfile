@@ -24,9 +24,7 @@ cask 'telegram'
 cask 'libreoffice'
 cask 'nvalt'
 cask 'teamviewer'
-# This one is not compliant, 
-# Error: Uh oh, could not figure out how to unpack 'handshaker'
-# cask 'handshaker'
+cask 'handshaker'
 
 # Browser
 cask 'google-chrome'
