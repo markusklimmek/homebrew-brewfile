@@ -9,6 +9,7 @@ cask 'visual-studio-code'
 brew 'maven'
 cask 'java'
 cask 'intellij-idea-ce'
+cask 'docker'
 
 # Desktop & Shell
 brew 'zsh'
@@ -25,6 +26,7 @@ cask 'libreoffice'
 cask 'nvalt'
 cask 'teamviewer'
 cask 'handshaker'
+cask 'gimp'
 
 # Browser
 cask 'google-chrome'
