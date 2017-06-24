@@ -31,3 +31,5 @@ cask 'gimp'
 # Browser
 cask 'google-chrome'
 
+#Backup
+cask 'backblaze'
