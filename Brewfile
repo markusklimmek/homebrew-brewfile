@@ -27,9 +27,15 @@ cask 'nvalt'
 cask 'teamviewer'
 cask 'handshaker'
 cask 'gimp'
+cask 'nextcloud'
+cask 'tomighty'
 
 # Browser
 cask 'google-chrome'
 
-#Backup
+# Backup
 cask 'backblaze'
+
+# Gaming
+cask 'steam'
+
