@@ -31,6 +31,7 @@ cask 'gimp'
 cask 'nextcloud'
 cask 'tomighty'
 cask 'calibre'
+cask 'buddi'
 
 # Browser
 cask 'google-chrome'
